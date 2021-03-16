@@ -1,5 +1,5 @@
 ## Typical Arrays Problems
-####Task
+*Task*
 There are a few typical problems while you working with arrays, and your goal is to solve it.
 
 **You should implement 3 functions: max, min, and avg for searching minimal value, maximal value, and an average value of a given array.**
